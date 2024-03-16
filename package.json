@@ -1,0 +1,16 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shahid khan",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
